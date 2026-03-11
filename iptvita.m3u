@@ -1,4 +1,4 @@
-s#EXTM3U
+#EXTM3U
 #EXTINF:-1,[1] Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
